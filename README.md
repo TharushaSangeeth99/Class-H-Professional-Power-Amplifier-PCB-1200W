@@ -1,7 +1,7 @@
 # 🔊 1200W Class-H Professional Audio Amplifier PCB Design
 
 <p align="center">
-  <img src="Media/banner.webp" width="900">
+  <img src="Media/bannar.webp" width="900">
 </p>
 
 <p align="center">
